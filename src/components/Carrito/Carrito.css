@@ -1,0 +1,14 @@
+.ContainerDetallesCarrito{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around ;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+
+.BotonComprar{
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+}

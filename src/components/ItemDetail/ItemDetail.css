@@ -1,0 +1,35 @@
+.BoxAllDetails{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.BotonDetalle{
+    height: 50px;
+}
+
+.BoxDetails{
+    width: 400px;
+}
+
+.BoxDescription{
+    width: 400px;
+}
+.BoxListas{
+    width: 400px;
+}
+
+.ULista{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+}
+
+.BorrarTodo{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}

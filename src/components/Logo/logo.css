@@ -1,0 +1,46 @@
+.BoxContenedor{
+    margin: 10px;
+}
+
+.Logo{
+  font-size: 150px;
+  color: deeppink;
+  text-shadow:
+  0 0 7px #fff,
+  0 0 10px #fff,
+  0 0 21px #fff,
+  0 0 42px rgb(255, 38, 0),
+  0 0 82px rgb(255, 38, 0),
+  0 0 92px rgb(255, 38, 0),
+  0 0 102px rgb(255, 38, 0),
+  0 0 151px rgb(255, 38, 0);
+}
+
+h1, h2{
+  font-size: medium;
+  text-align: center;
+    color: #fff;
+  text-shadow:
+    0 0 7px #fff,
+    0 0 10px #fff,
+    0 0 21px #fff,
+    0 0 42px rgb(255, 38, 0),
+    0 0 82px rgb(255, 38, 0),
+    0 0 92px rgb(255, 38, 0),
+    0 0 102px rgb(255, 38, 0),
+    0 0 151px rgb(255, 38, 0);
+}
+
+h1:hover, h2:hover, .Logo:hover{
+    color: #fff;
+  text-shadow:
+    0 0 7px #fff,
+    0 0 10px #fff,
+    0 0 21px #fff,
+    0 0 42px rgb(47, 0, 255),
+    0 0 82px rgb(0, 38, 255),
+    0 0 92px rgb(0, 89, 255),
+    0 0 102px rgb(0, 153, 255),
+    0 0 151px rgb(0, 204, 255);
+}
+
